@@ -1,0 +1,10 @@
+C:\Users\MUSTAFA KIRPIK\source\repos\CSharpCourse\Dama\bin\Debug\Dama.exe.config
+C:\Users\MUSTAFA KIRPIK\source\repos\CSharpCourse\Dama\bin\Debug\Dama.exe
+C:\Users\MUSTAFA KIRPIK\source\repos\CSharpCourse\Dama\bin\Debug\Dama.pdb
+C:\Users\MUSTAFA KIRPIK\source\repos\CSharpCourse\Dama\obj\Debug\Dama.csproj.AssemblyReference.cache
+C:\Users\MUSTAFA KIRPIK\source\repos\CSharpCourse\Dama\obj\Debug\Dama.Form1.resources
+C:\Users\MUSTAFA KIRPIK\source\repos\CSharpCourse\Dama\obj\Debug\Dama.Properties.Resources.resources
+C:\Users\MUSTAFA KIRPIK\source\repos\CSharpCourse\Dama\obj\Debug\Dama.csproj.GenerateResource.cache
+C:\Users\MUSTAFA KIRPIK\source\repos\CSharpCourse\Dama\obj\Debug\Dama.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA KIRPIK\source\repos\CSharpCourse\Dama\obj\Debug\Dama.exe
+C:\Users\MUSTAFA KIRPIK\source\repos\CSharpCourse\Dama\obj\Debug\Dama.pdb
